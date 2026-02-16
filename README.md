@@ -1,7 +1,7 @@
 
 ## 🌐 LetsConnect Website
 
- 🔗 [Visit the Live Site](https://mern-front-rprc.onrender.com/) 
+ 🔗Have fun with your friends : [LetsConnect](https://mern-front-rprc.onrender.com/) 
 
  🔗 **GitHub Repositories**:  
 - Frontend: https://github.com/JayaKaviya/Mern_Front  
@@ -10,7 +10,7 @@
 🔗 Repositor
 👤 **Author**: JayaKaviya Deivasigmani 
 
-## Lets Connect Home Page 
+## Lets Connect Welcome Page 
 ![Screenshot 2025-06-19 163935](https://github.com/user-attachments/assets/51958b0a-6950-4ad8-954d-5a25577fe1b4) 
 
 ## Login Page 
@@ -23,7 +23,7 @@
 ## Dashboard of Lets Connect app 
 ![Screenshot 2025-06-19 162630](https://github.com/user-attachments/assets/0b4851b2-f5a0-4c41-a205-c0f3d901d76d) 
 
-## Lets Connect Post Page 
+##  Home Page - Friends Post 
 ![Screenshot 2025-06-19 163144](https://github.com/user-attachments/assets/32c81976-30cd-47af-a4f5-f72e684e5a8d)
 
 ## Admin has Priviledges
