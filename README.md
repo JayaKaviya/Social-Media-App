@@ -7,8 +7,7 @@ LetsConnect is a full-stack social networking web application that enables users
 
 ## 🚀 Live Demo
 
-👉 **Visit LetsConnect:**  
-https://mern-front-rprc.onrender.com/
+👉 **Visit LetsConnect:**  Have fun with your friends : [LetsConnect](https://mern-front-rprc.onrender.com/)
 
 ---
 
@@ -81,6 +80,11 @@ LetsConnect is designed to simulate core social media functionalities including 
 
 ##  Home Page - Friends Post 
 ![Screenshot 2025-06-19 163144](https://github.com/user-attachments/assets/32c81976-30cd-47af-a4f5-f72e684e5a8d) <br/> <br/>
+
+## Friends Post Page 
+<img width="1910" height="965" alt="image" src="https://github.com/user-attachments/assets/decbbd57-9b8d-48da-b08d-6db7c3cd5bca" /> <br/> <br/>
+
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/87664dc7-5d88-4c5a-953e-2188b6a8b233" /> <br/> <br/>
 
 ## Admin has Priviledges
 ![Screenshot 2025-06-19 163648](https://github.com/user-attachments/assets/455afb58-a32e-4181-8c87-b026c29c5875) <br/> <br/>
