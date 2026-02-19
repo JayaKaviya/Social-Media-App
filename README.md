@@ -7,7 +7,10 @@ LetsConnect is a full-stack social networking web application that enables users
 
 ## 🚀 Live Demo
 
-👉 **Visit LetsConnect:**  Have fun with your friends : [LetsConnect](https://mern-front-rprc.onrender.com/)
+👉 **Visit LetsConnect:**  Have fun with your friends : [LetsConnect](https://mern-front-rprc.onrender.com/) 
+
+📸 **Screenshots:**  
+☑️ Available below
 
 ---
 
