@@ -92,11 +92,20 @@ LetsConnect is designed to simulate core social media functionalities including 
 ![Screenshot 2025-06-19 163648](https://github.com/user-attachments/assets/455afb58-a32e-4181-8c87-b026c29c5875) <br/> <br/>
 
 ## Follower Profile Page 
-![Screenshot 2025-06-19 164332](https://github.com/user-attachments/assets/fb30e121-bf9c-4a63-b8cb-11cc7027bf03)  <br/> <br/>
+![Screenshot 2025-06-19 164332](https://github.com/user-attachments/assets/fb30e121-bf9c-4a63-b8cb-11cc7027bf03)  <br/> <br/> 
 
+---
 
-🔗 Repositor
-👤 **Author**: JayaKaviya Deivasigamani 
+## 👩‍💻 Author
+
+**Jaya Kaviya**
+Full Stack Developer
+
+GitHub: [https://github.com/JayaKaviya](https://github.com/JayaKaviya)
+
+---
+
+⭐ If you like this project, give it a star!
 
 
 
