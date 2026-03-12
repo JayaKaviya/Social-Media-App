@@ -44,9 +44,9 @@ LetsConnect is a full-stack social networking web application that enables users
 
 ## 📂 GitHub Repositories (Source Code)
 
-- 🔹 Frontend: https://github.com/JayaKaviya/Mern_Front  
-- 🔹 Backend: https://github.com/JayaKaviya/Mern_Back
--  🔹Full stack: https://github.com/JayaKaviya/Social-Media-App 
+ 🔹 **Frontend (Production Repository):** https://github.com/JayaKaviya/Mern_Front
+ 🔹 **Backend (Production Repository):** https://github.com/JayaKaviya/Mern_Back
+ 🔹 **Full Stack (Combined Version):** https://github.com/JayaKaviya/Social-Media-App
 
 ---
 
