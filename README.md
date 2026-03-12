@@ -94,8 +94,12 @@ LetsConnect is designed to simulate core social media functionalities including 
 ## Admin has Priviledges
 ![Screenshot 2025-06-19 163648](https://github.com/user-attachments/assets/455afb58-a32e-4181-8c87-b026c29c5875) <br/> <br/>
 
+## Following Page 
+<img width="1920" height="971" alt="image" src="https://github.com/user-attachments/assets/41d54815-3104-4417-8c2c-204c127897bc" /> <br/> <br/>
+
 ## Follower Profile Page 
 ![Screenshot 2025-06-19 164332](https://github.com/user-attachments/assets/fb30e121-bf9c-4a63-b8cb-11cc7027bf03)  <br/> <br/> 
+
 
 ---
 
