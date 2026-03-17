@@ -83,6 +83,9 @@ LetsConnect is designed to simulate core social media functionalities including 
 ## Profile Page 
 ![Screenshot 2025-06-19 164512](https://github.com/user-attachments/assets/1b54c37e-dbe9-46b9-bab1-f156242a7e9e) <br/> <br/>
 
+## Congratualtions PopUp After Profile Updation
+<img width="1901" height="969" alt="image" src="https://github.com/user-attachments/assets/fc029168-ed76-49a3-9ffe-b1d8577a8420" /> <br/> <br/>
+
 ## Dashboard of Lets Connect app 
 ![Screenshot 2025-06-19 162630](https://github.com/user-attachments/assets/0b4851b2-f5a0-4c41-a205-c0f3d901d76d) <br/> <br/>
 
