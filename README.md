@@ -74,6 +74,9 @@ LetsConnect is designed to simulate core social media functionalities including 
 ## Register Page 
 ![Screenshot 2025-06-19 163948](https://github.com/user-attachments/assets/785885c1-7656-4c21-98b5-23096c362323) <br/> <br/> 
 
+## Congratulations PopUp After Registration
+<img width="1916" height="970" alt="image" src="https://github.com/user-attachments/assets/94d9c145-2551-4f34-b0d8-118f8d663e14" /> <br/> <br/>
+
 ## Forgot Password Page 
 <img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/f94a166f-b5ff-4113-a0ae-27f4531ca99f" /> <br/> <br/>
 
